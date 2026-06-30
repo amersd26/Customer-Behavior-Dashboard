@@ -85,7 +85,7 @@ using Power BI Desktop.
 📸 Dashboard Preview
 
 images/dashboard.png
-![Uploading dashboard.png.png…]()
+<img width="1680" height="923" alt="dashboard png" src="https://github.com/user-attachments/assets/24f58c88-2fe0-4468-8cb2-adfa388ebf4b" />
 
 
 📚 Skills Demonstrated
