@@ -62,7 +62,8 @@ Compared regional sales performance.
 Built interactive dashboards for business decision-making.
 🚀 How to Run
 Clone Repository
-git clone https://github.com/amersd26/Sales-Data-Analysis.git
+git clone https://github.com/amersd26/SSales-Data-Analysis-using-SQL-Python-Power-BI.
+git
 Install Libraries
 pip install pandas numpy matplotlib jupyter
 Run
@@ -108,7 +109,7 @@ Syed Amer
 
 Data Analyst
 SQL | Python | Power BI | Excel
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/amersd26
 LinkedIn: https://linkedin.com/in/syed-amer-aa5a6021b
 Also add a requirements.txt file:
 pandas
