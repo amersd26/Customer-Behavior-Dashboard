@@ -18,6 +18,8 @@ SQL (MySQL)
 Power BI
 Jupyter Notebook
 📂 Project Structure
+
+
 Sales Data Analysis/
 │
 ├── customer.ipynb                 # Python data analysis
@@ -27,6 +29,10 @@ Sales Data Analysis/
 ├── customer_behavior_dashboard.pbix
 ├── README.md
 └── requirements.txt
+
+
+
+
 📊 Analysis Performed
 Data Cleaning
 Missing Value Handling
